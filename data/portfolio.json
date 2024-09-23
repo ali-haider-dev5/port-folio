@@ -26,28 +26,28 @@
       "id": "1",
       "title": "Qbatch offical Site",
       "description": "Web Design",
-      "imageSrc": "portfolio/qbatch-site.png",
+      "imageSrc": "/portfolio/qbatch-site.png",
       "url": "https://qbatch.com/"
     },
     {
       "id": "2",
       "title": "Sales Support",
       "description": "Web Development",
-      "imageSrc": "portfolio/sales_support.png",
+      "imageSrc": "/portfolio/sales_support.png",
       "url": "https://sales.support/"
     },
     {
       "id": "3",
       "title": "Brief Adler",
       "description": "Web Development",
-      "imageSrc": "portfolio/breif_adler.png",
+      "imageSrc": "/portfolio/breif_adler.png",
       "url": "https://app.brief-adler.de/products"
     },
     {
       "id": "4",
       "title": "Aalgox capital",
       "description": "Web Development",
-      "imageSrc": "portfolio/algox.capital.png",
+      "imageSrc": "/portfolio/algox.capital.png",
       "url": "https://algox.capital/"
     }
   ],
