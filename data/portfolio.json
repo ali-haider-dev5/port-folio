@@ -1,0 +1,104 @@
+{
+  "name": "Ali ",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Ali Haider - curious",
+  "headerTaglineThree": "Front End devloper",
+  "headerTaglineFour": " based in Lahore, Pakistan.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/ali-haider-dev5"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/ali-haider-56a293178/"
+    },
+    { "id": "3", "title": "Email", "link": "alihaider8500@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Qbatch offical Site",
+      "description": "Web Design",
+      "imageSrc": "portfolio/qbatch-site.png",
+      "url": "https://qbatch.com/"
+    },
+    {
+      "id": "2",
+      "title": "Sales Support",
+      "description": "Web Development",
+      "imageSrc": "portfolio/sales_support.png",
+      "url": "https://sales.support/"
+    },
+    {
+      "id": "3",
+      "title": "Brief Adler",
+      "description": "Web Development",
+      "imageSrc": "portfolio/breif_adler.png",
+      "url": "https://app.brief-adler.de/products"
+    },
+    {
+      "id": "4",
+      "title": "Aalgox capital",
+      "description": "Web Development",
+      "imageSrc": "portfolio/algox.capital.png",
+      "url": "https://algox.capital/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Front End Development",
+      "description": "As a front-end developer, I specialize in creating visually engaging, responsive, and user-friendly web interfaces. My expertise includes building efficient and scalable web applications using modern technologies like HTML5, CSS3, JavaScript, and React. I focus on crafting clean, maintainable code that enhances user experience while ensuring cross-browser compatibility and performance optimization"
+    },
+    {
+      "id": "2",
+      "title": "Pixel Perfect",
+      "description": "I specialize in creating pixel-perfect web designs that precisely match the provided mockups, ensuring every detail is implemented with accuracy and attention to detail. By aligning elements down to the pixel, I ensure a seamless, visually polished interface that meets design specifications and enhances the overall user experience"
+    },
+    {
+      "id": "3",
+      "title": "Landing Page",
+      "description": "I create high-converting, visually stunning landing pages designed to capture attention and engage visitors. My landing pages are optimized for user experience (UX), ensuring clear messaging, intuitive navigation, and effective calls-to-action (CTAs) that drive results"
+    },
+    {
+      "id": "4",
+      "title": "Responsive Web Application",
+      "description": "I build responsive web applications that deliver seamless user experiences across all devices, from desktops to smartphones. Using modern front-end technologies like HTML5, CSS3, JavaScript, and frameworks like React, I ensure that every application adapts fluidly to different screen sizes and resolutions without compromising on performance or design"
+    }
+  ],
+  "aboutpara": "With my expertise in HTML, CSS, and JavaScript, I am able to seamlessly transform static mockups into fully functional and responsive websites. My attention to detail and eye for design ensures that every project I work on is not only pixel-perfect but also intuitive and user-friendly. Let's bring your designs to life!",
+  "resume": {
+    "tagline": "👋  I'm a frontEnd developer.",
+    "description": "I have delivered world-class user Products to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "June - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at Qbatch",
+        "bullets": "Produced websites compatible with multiple browsers., Optimized applications for speed and scalability"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "March 2019 - March 2020",
+        "type": "Full Time",
+        "position": "Frontend Engineer at BrainPlow",
+        "bullets": "earn and master additional tools for efficient front-end development, Participate in code reviews to receive and provide feedback on front-end code quality."
+      }
+    ],
+    "education": {
+      "universityName": "Govt College University Faisalabad ",
+      "universityDate": "2014-2018"
+    },
+    "languages": ["Javascript", "HTML5", "CSS3", "React"],
+    "frameworks": ["React", "React Bootstrap", "Material ui","Ant design","Tailwind Css","Gatsby"],
+    "others": ["Figma", "Styled Component", "Strapi","Graphql"]
+  }
+}
